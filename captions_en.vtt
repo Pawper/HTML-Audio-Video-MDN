@@ -2,4 +2,6 @@ WEBVTT
 
 1
 00:00:01.250 --> 00:00:06.750
-A very still bunny.
+A <i>very</i> <b>still</b> bunny.
+
+NOTE This is a comment in the VTT file.
